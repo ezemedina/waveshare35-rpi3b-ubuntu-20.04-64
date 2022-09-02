@@ -9,6 +9,5 @@
   package:
     name: "{{ item }}"
   loop:
-    - xubuntu-desktop
     - xserver-xorg-input-evdev
 
